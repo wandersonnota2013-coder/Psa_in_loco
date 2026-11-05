@@ -1,10 +1,10 @@
 {
-  "name": "PSA In Loco — Red Bull + Fokus",
-  "short_name": "PSA In Loco",
-  "start_url": "./index.html",
+  "name": "PSA IN LOCO | Red Bull + Fokus",
+  "short_name": "PSA IN LOCO",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f3f5f7",
   "theme_color": "#101820",
-  "description": "Pesquisa PSA de execução no PDV, com registro offline."
+  "description": "Pesquisa PSA de execução no ponto de venda, com dashboard gerencial offline."
 }
